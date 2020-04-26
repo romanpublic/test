@@ -1,3 +1,3 @@
 {
-  "parsers": ["@typescript-eslint/parser"]
+  "parsers": ["@typescript-eslint/parse"]
 }
