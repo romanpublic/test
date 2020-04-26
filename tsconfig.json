@@ -1,3 +1,3 @@
 {
-"excludes": ["aa","node_module", "bla"]
+"excludes": ["aa","node_modules", "bla"]
 }
