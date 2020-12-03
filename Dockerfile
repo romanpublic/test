@@ -1,2 +1,2 @@
-FROM python:2
+FROM python
 FROM node:8
